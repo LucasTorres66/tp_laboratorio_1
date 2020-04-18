@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1587227171 source:c:\users\lucas\desktop\clases programacion\repasoclase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1587226739 c:\users\lucas\desktop\clases programacion\repasoclase2\functions.h
+
+1587227154 source:c:\users\lucas\desktop\clases programacion\repasoclase2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1586791533 c:\users\lucas\desktop\clases programacion\repasoclase2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
